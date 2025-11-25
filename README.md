@@ -1,12 +1,5 @@
 # Task Manager
+A small Python Flask web app for creating and managing tasks. It lets you add new tasks, rename them, and delete them. All tasks are stored in a database, so persists between sessions.
 
-A web application built with Flask to manage tasks.
-
-Users can create new tasks, read task descriptions, update tasks, and delete tasks.
-
-<div style="text-align: center;">
-    <img width="100%" src="demo/1.png">
-    <img width="100%" src="demo/2.png">
-    <img width="100%" src="demo/3.png">
-    <img width="100%" src="demo/4.png">
-</div>
+## Demo
+![Demo](demo/demo.gif)
