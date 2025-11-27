@@ -7,5 +7,4 @@ A Flask web app for creating and managing tasks. It lets you add new tasks, rena
 - SQLite
 - HTML and CSS
 
-## Demo
 ![Demo](demo.gif)
